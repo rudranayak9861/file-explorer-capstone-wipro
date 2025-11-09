@@ -210,11 +210,11 @@ exit
 ##  Author
 
 _Rudra Prasad Nayak_  
-🌐 [GitHub Profile](https://github.com/rudranayak9861)
+ [GitHub Profile](https://github.com/rudranayak9861)
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates a practical understanding of:
 
